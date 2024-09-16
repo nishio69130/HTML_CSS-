@@ -1,9 +1,24 @@
+
+body {
+    font-family: "Meiryo",cursive;
+}
+
+
 .decoration {
+    display: inline-block;
+    font-size: 48px;
+    color: blueviolet;
+    font-weight: bold;
+    font-style: italic;
+    border: dotted 3px red;
+    text-shadow: 1px 1px 2px blue;
+}
+
+.decoration2 {
     display: inline-block;
     font-size: 48px;
     color: red;
     font-weight: bold;
-    font-family: "游ゴシック体", "YuGothic", "游ゴシック", "Yu Gothic";
     font-style: italic;
     border: dotted 3px red;
     text-shadow: 1px 1px 2px blue;
