@@ -1,0 +1,45 @@
+.flexbox-container {
+    display: flex;
+    height: 500px;
+    padding: 5px;
+    background-color: cyan;
+}
+
+.flexbox-item {
+    padding: 5px;
+    margin: 5px;
+    background-color: orange;
+}
+
+#item01 {
+    align-self: start;
+}
+
+#item02 {
+    align-self: flex-end;
+
+}
+
+#item03 {
+
+}
+
+#item04 {
+
+}
+
+#item05 {
+
+}
+
+#item06 {
+
+}
+
+#item07 {
+    flex-grow: 1;
+}
+
+#item08 {
+    flex-grow: 2;
+}
