@@ -1,0 +1,26 @@
+#first {
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    margin: 10px;
+    background-color: lightblue;
+}
+
+#second {
+    display: none;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    margin: 20px;
+    background-color: lightgreen;
+  }
+  #third {
+    width: 100px;
+    height: 100px;
+    background-color: lightgray;
+  }
+  #fourth {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+  }
