@@ -1,0 +1,32 @@
+.parent {
+    background-color: whitesmoke;
+}
+
+a:link {
+    color: orange;    
+}
+
+a:visited{
+    color: aqua;
+}
+
+a:hover{
+    font-size: 36px;
+}
+
+a:active{
+    color: black;    
+}
+
+.parent p:nth-child(3){
+    color: red;
+}
+
+.parent p:nth-of-type(3){
+    color: red;
+}
+
+.parent :not(h2):hover{
+    font-size:20px;
+    text-decoration: line-through;
+}
